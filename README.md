@@ -1,18 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
 <body>
 
 <h2>The one that got away</h2>
 
 <table style="width:50%">
   <tr>
-    <th>First year</th>
-    <th>Second year</th>
-    <th>Third year</th>
-    <th>Forth year</th>
-    <th>Fifth year</th>
+    <th>1890</th>
+    <th>1891</th>
+    <th>1892</th>
+    <th>1893</th>
+    <th>1894</th>
   </tr>
+  <tr>
+    <td>First year</td>
+    <td>Second year</th>
+    <td>Third year</td>
+    <td>Forth year</td>
+    <td>Fifth year</td>
+  </tr>
+  
   <tr>
     <td>Spotted a small landfill of trash</td>
     <td>cleaned the landfill alone </td>
